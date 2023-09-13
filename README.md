@@ -1,4 +1,4 @@
-# VidShield-NFT-Gated-Real-Time-Peer-To-Peer-Video-Caller-Application
+# VidShield : NFT-Gated-Video-Caller
 This is Decentralized Peer to Peer Video Calling Application Which uses NFT Based Authentication System i.e. this App is NFT Gated . If User Has At least 2 minted NFTs from the contract then he is allowed as authenticated person otherwise it is not permitted this is idea
 
 # Tech Stack Used For Application :
